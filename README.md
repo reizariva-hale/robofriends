@@ -1,4 +1,4 @@
-My portfolio site: [frontendreiz](https://frontendreiz.com/robofriends).
+My portfolio site: [frontendreiz](https://frontendreiz.com/).
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
